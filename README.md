@@ -1,6 +1,6 @@
 -  Hi, I’m Sky (aka Zivena)
 -  I’m interested in all things technology.
--  I’m currently learning how to code in C# and C++.
+-  I’m currently self educating myself in C#, C++, and Python.
 -  Business inquiries should be directed to SkylarhWright@gmail.com.
 -  Pronouns: She/Her.
 
