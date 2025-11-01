@@ -1,26 +1,23 @@
 # Sky (Zivena)
 
-  Indie developer building practical tools to make computing friendlier and more
-   capable.
+Indie developer building practical tools for users who just want things to work.
 
-  **Now**
-  - [SteamLess](https://github.com/Sky-Wright/SteamLess) — Run Windows apps on
-  Linux with Proton
+**Now**
+- [SteamLess Proton](https://github.com/Sky-Wright/SteamLess-Proton) — Run Windows apps on Linux without the hassle
 
-  **Next**
-  - OVERLORD, LANtern, Instant Transmission
+**Next**
+- OVERLORD, LANtern, Instant Transmission
 
-  **About me**
-  Self-taught since Jan 2024. From quick Unity prototypes to shipping robust
-  Linux tools — I build what I wish existed.
+**About me**
 
-  Open source where it matters. One-time pricing.
+I spent 25 years on Windows before switching to Linux in 2024. Turns out the tools I needed didn't exist yet — so I built them.
 
-  ---
+Self-taught developer since February 2024. I ship what I use daily. Auditable code, one-time pricing, no subscriptions.
 
-  **Find my work:**
-  [itch.io](https://zivena.itch.io) •
-  [Patreon](https://www.patreon.com/c/Sky_Wright)
+---
+
+**Find my work:**
+[itch.io](https://zivena.itch.io) • [Patreon](https://www.patreon.com/c/Sky_Wright)
 
 <!---
 Sky-Wright/Sky-Wright is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
