@@ -10,7 +10,7 @@ Indie developer building practical tools for users who just want things to work.
 
 **About me**
 
-I spent 25 years on Windows before switching to Linux in 2024. Turns out the tools I needed didn't exist yet — so I built them.
+I spent 25 years on Windows before switching to Linux in 2024. Turns out the tools I needed don't exist yet — so I build them.
 
 Self-taught developer since February 2024. I ship what I use daily. Auditable code, one-time pricing, no subscriptions.
 
