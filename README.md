@@ -17,7 +17,7 @@ Self-taught developer since February 2024. I ship what I use daily. Auditable co
 ---
 
 **Find my work:**
-[itch.io](https://zivena.itch.io) • [Patreon](https://www.patreon.com/c/Sky_Wright)
+[itch.io](https://zivena.itch.io) 
 
 <!---
 Sky-Wright/Sky-Wright is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
